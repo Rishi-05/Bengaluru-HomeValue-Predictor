@@ -23,3 +23,19 @@ A web application to predict house prices in Bengaluru using scraped real estate
 1. Clone the repository:  
    ```bash
    git clone "https://github.com/Rishi-05/Bengaluru-HomeValue-Predictor"
+
+2. Navigate to the project directory:
+   ```bash
+   cd bengaluru-homevalue-predictor
+   
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Run the Flask app:
+   ```bash
+   python app.py
+
+5. Open the web app in your browser:
+   ```bash
+   http://127.0.0.1:5000/
